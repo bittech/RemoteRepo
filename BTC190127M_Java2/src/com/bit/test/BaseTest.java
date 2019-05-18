@@ -10,6 +10,7 @@ public class BaseTest {
 	WebDriver dr;
 	
 	public WebDriver getDriver() {
+		System.out.println("git");
 		System.setProperty("webdriver.chrome.driver", "/Users/bittechconsulting/Downloads/chromedriver");
 		dr = new ChromeDriver();
 		dr.manage().window().maximize();
