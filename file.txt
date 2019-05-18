@@ -1,0 +1,8 @@
+this is git and linux command file
+we are learning some linux comand
+ls, grep,vi,cd.pwd etc
+ps ax
+kill
+touch
+mkdir
+nano
